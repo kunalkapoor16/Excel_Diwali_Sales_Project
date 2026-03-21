@@ -1,4 +1,4 @@
-#Excel_Diwali_Sales_Project: 
+# Excel_Diwali_Sales_Project
 This project focuses on analyzing Diwali sales data to uncover customer purchasing behavior, sales trends, and key business insights. The dataset contains transactional information such as customer demographics, product categories, order details, and revenue generated during the festive season.
 The goal of this analysis is to help businesses understand their customers better and optimize marketing strategies to increase sales during high-demand periods like Diwali.
 
